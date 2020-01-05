@@ -1,4 +1,4 @@
-DISTRITO_ACCIDENTE,COLISIÓN DOBLE                          ,COLISIÓN MÚLTIPLE                       ,CHOQUE CON OBJETO FIJO                  ,ATROPELLO                               ,VUELCO                                  ,CAÍDA MOTOCICLETA                       ,CAÍDA CICLOMOTOR                        ,CAÍDA BICICLETA                         ,CAÍDA VIAJERO BUS                       ,OTRAS CAUSAS                            ,AÑO
+DISTRITO_ACCIDENTE,COLISION_DOBLE,COLISION_MULTIPLE,CHOQUE_CON_OBJETO_FIJO,ATROPELLO,VUELCO,CAIDA_MOTOCICLETA,CAIDA_CICLOMOTOR,CAIDA_BICICLETA,CAIDA_VIAJERO_BUS,OTRAS_CAUSAS,AÑO
 ARGANZUELA                    ,389,54,126,75,9.0,43,9.0,4.0,5.0,8.0,2009
 BARAJAS                       ,89,6,53,21,,12,2.0,1.0,2.0,2.0,2009
 CARABANCHEL                   ,375,44,171,137,8.0,36,13.0,6.0,9.0,8.0,2009
